@@ -1,0 +1,1 @@
+import{u as t,c as a,a as r,o as s}from"./C5Tdpf0J.js";const u={__name:"per2",setup(o){return t({title:"聚會回憶-餐廳"}),(l,e)=>(s(),a("div",null,e[0]||(e[0]=[r("h1",null,"聚會回憶-餐廳",-1)])))}};export{u as default};

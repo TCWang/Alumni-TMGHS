@@ -1,0 +1,1 @@
+import{u as t,c as a,a as s,o as n}from"./C5Tdpf0J.js";const u={__name:"index",setup(o){return t({title:"個人聚會回憶"}),(r,e)=>(n(),a("div",null,e[0]||(e[0]=[s("h1",null,"個人聚會回憶",-1)])))}};export{u as default};
