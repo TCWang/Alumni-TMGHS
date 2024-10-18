@@ -1,0 +1,1 @@
+import{u as e,c as s,o as t,a}from"./DHu421uX.js";const o=a("h1",null,"班級專刊-1964級2班",-1),c=[o],u={__name:"class2",setup(_){return e({title:"班級專刊-1964級2班"}),(n,l)=>(t(),s("div",null,c))}};export{u as default};

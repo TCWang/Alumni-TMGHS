@@ -1,0 +1,1 @@
+import{u as e,c as t,o as a,a as s}from"./DHu421uX.js";const o=s("h1",null,"畢業60週年-幕後工作人員",-1),n=[o],u={__name:"ann3",setup(c){return e({title:"畢業60週年--幕後工作人員"}),(_,r)=>(a(),t("div",null,n))}};export{u as default};

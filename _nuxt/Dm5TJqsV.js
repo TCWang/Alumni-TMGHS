@@ -1,0 +1,1 @@
+import{u as e,c as t,o as s,a as o}from"./DHu421uX.js";const a={class:"container"},c=o("h1",null,"1964級市女中同學會",-1),n=[c],l={__name:"index",setup(_){return e({title:"1964台北市女中"}),(r,i)=>(s(),t("div",a,n))}};export{l as default};
