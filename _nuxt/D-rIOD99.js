@@ -1,1 +1,0 @@
-import{u as t,c as s,a,o}from"./C5Tdpf0J.js";const n={class:"container"},_={__name:"index",setup(r){return t({title:"1964台北市女中"}),(c,e)=>(o(),s("div",n,e[0]||(e[0]=[a("h1",null,"1964級市女中同學會",-1)])))}};export{_ as default};

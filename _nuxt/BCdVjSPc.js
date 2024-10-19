@@ -1,0 +1,1 @@
+import{_ as t}from"./CyBM2Wo4.js";import{u as o,c as l,a as e,b as r,o as c}from"./D5DC1y1y.js";import"./CgdkIfzd.js";const n={class:"w-full max-w-full"},d={__name:"class3",setup(_){return o({title:"班級專刊-1964級3班"}),(m,s)=>{const a=t;return c(),l("div",null,[e("article",n,[s[0]||(s[0]=e("h1",null,"班級專刊-1964級3班",-1)),r(a)])])}}};export{d as default};
