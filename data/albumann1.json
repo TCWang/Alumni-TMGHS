@@ -1,5 +1,23 @@
 [
   {
+    "id": "IMG_1039",
+    "name": "IMG",
+    "category": "大會團體照",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_39.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_1038",
+    "name": "IMG",
+    "category": "大會團體照",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_38.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
     "id": "IMG_1001",
     "name": "IMG",
     "category": "大會團體照",
@@ -54,38 +72,11 @@
     "size": "H"
   },
   {
-    "id": "IMG_1007",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_7.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_1008",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_8.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
     "id": "IMG_1009",
     "name": "IMG",
     "category": "大會團體照",
     "date": "10/18/24",
     "figure": "LINE_ALBUM_20241016第一項團體合照_241019_9.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_1010",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_10.jpg",
     "type": "人物",
     "size": "H"
   },
@@ -198,24 +189,6 @@
     "size": "H"
   },
   {
-    "id": "IMG_1023",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_23.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_1024",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_24.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
     "id": "IMG_1025",
     "name": "IMG",
     "category": "大會團體照",
@@ -269,15 +242,7 @@
     "type": "人物",
     "size": "H"
   },
-  {
-    "id": "IMG_1031",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_31.jpg",
-    "type": "人物",
-    "size": "H"
-  },
+
   {
     "id": "IMG_1032",
     "name": "IMG",
@@ -314,39 +279,13 @@
     "type": "人物",
     "size": "H"
   },
-  {
-    "id": "IMG_1036",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_36.jpg",
-    "type": "人物",
-    "size": "H"
-  },
+
   {
     "id": "IMG_1037",
     "name": "IMG",
     "category": "大會團體照",
     "date": "10/18/24",
     "figure": "LINE_ALBUM_20241016第一項團體合照_241019_37.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_1038",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_38.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_1039",
-    "name": "IMG",
-    "category": "大會團體照",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016第一項團體合照_241019_39.jpg",
     "type": "人物",
     "size": "H"
   }

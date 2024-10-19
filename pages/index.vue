@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>1964級 台北市女立女中 同學會</h1>
+    <h1>1964 台北市女中 重聚會 - 60週年紀念</h1>
   </div>
 </template>
 

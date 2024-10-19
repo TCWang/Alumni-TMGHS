@@ -32,6 +32,9 @@
           <source src="/videos/VDO-04.mp4" type="video/mp4" />
         </video>
         <video class="w-full h-auto" controls>
+          <source src="/videos/VDO-10.mp4" type="video/mp4" />
+        </video>
+        <video class="w-full h-auto" controls>
           <source src="/videos/VDO-08.mov" type="video/mp4" />
         </video>
         <video class="w-full h-auto" controls>

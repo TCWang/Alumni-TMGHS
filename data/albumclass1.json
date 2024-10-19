@@ -340,5 +340,41 @@
     "figure": "LINE_ALBUM_20241016班機級專刋4_5班_241019_9.jpg",
     "type": "人物",
     "size": "H"
+  },
+  {
+    "id": "IMG_503_01",
+    "name": "Class03",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016市女中3班_241020_1.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_503_02",
+    "name": "Class03",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016市女中3班_241020_2.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_503_03",
+    "name": "Class03",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016市女中3班_241020_3.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_503_04",
+    "name": "Class03",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016市女中3班_241020_4.jpg",
+    "type": "人物",
+    "size": "H"
   }
 ]

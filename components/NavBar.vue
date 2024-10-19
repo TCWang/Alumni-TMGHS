@@ -98,8 +98,8 @@ export default {
           name: "60週年重聚會",
           open: false,
           submenu: [
-            { name: "大會團體照", link: "/anniversary/ann1" },
-            { name: "大會個人照", link: "/anniversary/ann2" },
+            { name: "團體群像", link: "/anniversary/ann1" },
+            { name: "班級個照", link: "/anniversary/ann2" },
             { name: "幕後工作人員", link: "/anniversary/ann3" },
             { name: "表演節目記錄", link: "/anniversary/ann4" },
           ],
@@ -111,7 +111,7 @@ export default {
             { name: "1964級1-5班", link: "/class/class1" },
             { name: "1964級6-10班", link: "/class/class2" },
             { name: "1964級11-15班", link: "/class/class3" },
-            { name: "1964級16-17班及總召", link: "/class/class4" },
+            { name: "1964級16-17班及召集人", link: "/class/class4" },
           ],
         },
         {
