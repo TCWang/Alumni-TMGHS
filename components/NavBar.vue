@@ -108,9 +108,10 @@ export default {
           name: "班級專刊",
           open: false,
           submenu: [
-            { name: "1964級1班", link: "/class/class1" },
-            { name: "1964級2班", link: "/class/class2" },
-            { name: "1964級3班", link: "/class/class3" },
+            { name: "1964級1-5班", link: "/class/class1" },
+            { name: "1964級6-10班", link: "/class/class2" },
+            { name: "1964級11-15班", link: "/class/class3" },
+            { name: "1964級16-17班及總召", link: "/class/class4" },
           ],
         },
         {

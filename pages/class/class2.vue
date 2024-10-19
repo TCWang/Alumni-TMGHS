@@ -1,7 +1,7 @@
 <template>
   <div>
     <article class="w-full max-w-full">
-      <h1>班級專刊-1964級2班</h1>
+      <h1>班級專刊-1964級6-10班</h1>
       <AlbumCardsClass2 />
     </article>
   </div>
@@ -9,7 +9,7 @@
 
 <script setup>
 useHead({
-  title: "班級專刊-1964級2班",
+  title: "班級專刊-1964級6-10班",
 });
 </script>
 
