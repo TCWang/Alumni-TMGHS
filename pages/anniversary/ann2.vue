@@ -1,7 +1,7 @@
 <template>
   <div>
     <article class="w-full max-w-full">
-      <h1>畢業60週年-大會個人照</h1>
+      <h1>畢業60週年 - 班級個照</h1>
       <AlbumCardsAnn2 />
     </article>
   </div>
