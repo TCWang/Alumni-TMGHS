@@ -2,7 +2,7 @@
   <div class="">
     <img
       style="width: 400px"
-      :src="`/images/IMG1/${photo.figure}`"
+      :src="`/images/IMG6/${photo.figure}`"
       alt=""
       class="img-fluid"
     />
