@@ -2,7 +2,7 @@
   <div>
     <article class="w-full max-w-full">
       <h1>班級專刊-1964級3班</h1>
-      <AlbumCardsClass1 />
+      <AlbumCardsClass3 />
     </article>
   </div>
 </template>
