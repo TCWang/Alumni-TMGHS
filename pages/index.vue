@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>1964級市女中同學會</h1>
+    <h1>1964級 台北市女立女中 同學會</h1>
   </div>
 </template>
 

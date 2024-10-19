@@ -1,12 +1,12 @@
 <template>
   <div>
-    <h1>畢業60週年-重聚會</h1>
+    <h1>台北市立女中 - 1964級同學會</h1>
   </div>
 </template>
 
 <script setup>
 useHead({
-  title: "畢業60週年-重聚會",
+  title: "台北市立女中 - 1964級同學會",
 });
 </script>
 
