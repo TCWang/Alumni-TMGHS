@@ -1,1 +1,0 @@
-import{u as t,c as a,a as s,o as n}from"./Bg-RcgTi.js";const u={__name:"index",setup(o){return t({title:"市女中1964-班級專刊"}),(r,e)=>(n(),a("div",null,e[0]||(e[0]=[s("h1",null,"市女中1964-班級專刊",-1)])))}};export{u as default};
