@@ -1,1 +1,0 @@
-import{u as t,c as s,a,o}from"./Cz7KzZJI.js";const n={class:"container"},_={__name:"index",setup(r){return t({title:"1964台北市女中"}),(c,e)=>(o(),s("div",n,e[0]||(e[0]=[a("h1",null,"1964 台北市女中 重聚會 - 60週年紀念",-1)])))}};export{_ as default};
