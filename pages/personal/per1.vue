@@ -1,7 +1,7 @@
 <template>
   <div>
     <article class="w-full max-w-full">
-      <h1>聚會回憶-個人沙龍</h1>
+      <h1>聚會回憶 - 個人沙龍</h1>
       <AlbumCardsPer1 />
     </article>
   </div>

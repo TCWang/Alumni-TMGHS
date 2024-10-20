@@ -100,8 +100,8 @@ export default {
           submenu: [
             { name: "團體群像", link: "/anniversary/ann1" },
             { name: "班級個照", link: "/anniversary/ann2" },
-            { name: "幕後工作人員", link: "/anniversary/ann3" },
-            { name: "表演節目記錄", link: "/anniversary/ann4" },
+            { name: "工作人員", link: "/anniversary/ann3" },
+            { name: "表演節目", link: "/anniversary/ann4" },
           ],
         },
         {
@@ -120,7 +120,7 @@ export default {
           submenu: [
             { name: "個人沙龍", link: "/personal/per1" },
             { name: "大龍蝦餐廳", link: "/personal/per2" },
-            { name: "美食", link: "/personal/per3" },
+            { name: "美食回憶", link: "/personal/per3" },
           ],
         },
       ],
