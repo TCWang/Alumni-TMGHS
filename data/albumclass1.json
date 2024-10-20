@@ -1,5 +1,14 @@
 [
   {
+    "id": "IMG_501_01",
+    "name": "Class01",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋1班_241019_1.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
     "id": "IMG_502_01",
     "name": "Class02",
     "category": "班級專刊",
@@ -284,6 +293,15 @@
     "category": "班級專刊",
     "date": "10/18/24",
     "figure": "LINE_ALBUM_20241016市女中3班_241020_1.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_503_03",
+    "name": "Class03",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016市女中3班_241020_5.jpg",
     "type": "人物",
     "size": "H"
   },
