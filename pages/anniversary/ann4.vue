@@ -52,7 +52,7 @@
 
 <script setup>
 useHead({
-  title: "畢業60週年-表演節目紀錄",
+  title: "市女中-表演節目",
 });
 </script>
 

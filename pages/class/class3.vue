@@ -9,7 +9,7 @@
 
 <script setup>
 useHead({
-  title: "班級專刊-1964級11-15班",
+  title: "班級專刊-11-17班",
 });
 </script>
 

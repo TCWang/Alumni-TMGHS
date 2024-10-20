@@ -6,7 +6,7 @@
 
 <script setup>
 useHead({
-  title: "市女中1964-班級專刊",
+  title: "市女中-班級專刊",
 });
 </script>
 

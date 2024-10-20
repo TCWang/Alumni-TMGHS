@@ -4,7 +4,7 @@
       <!-- Logo -->
       <div class="flex items-center justify-between md:w-auto w-full">
         <a href="/" class="flex items-center py-2 px-1 text-white flex-1">
-          <span class="font-bold">台北市女中</span>
+          <span class="font-bold text-xl text-yellow-400">市女中</span>
         </a>
         <!-- Mobile Menu Button -->
         <div class="md:hidden flex items-center">

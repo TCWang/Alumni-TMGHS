@@ -9,7 +9,7 @@
 
 <script setup>
 useHead({
-  title: "班級專刊-1964級16-17班 及總召/執行長",
+  title: "班級專刊-總召&執行長",
 });
 </script>
 

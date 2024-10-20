@@ -16,7 +16,7 @@
 
 <script setup>
 useHead({
-  title: "1964台北市女中",
+  title: "市女中-1964",
 });
 </script>
 

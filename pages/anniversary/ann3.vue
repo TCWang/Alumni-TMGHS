@@ -9,7 +9,7 @@
 
 <script setup>
 useHead({
-  title: "畢業60週年--幕後工作人員",
+  title: "市女中-工作人員",
 });
 </script>
 

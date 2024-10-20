@@ -9,7 +9,7 @@
 
 <script setup>
 useHead({
-  title: "畢業60週年-大會團體照",
+  title: "市女中-團體群像",
 });
 </script>
 
