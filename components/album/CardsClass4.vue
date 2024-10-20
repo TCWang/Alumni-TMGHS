@@ -1,9 +1,5 @@
 <template>
   <div class="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 g-1 space-y-1">
-    <h2>16 - 17 班</h2>
-    <AlbumCard5 v-for="photo in class16Photos" :key="photo.id" :photo="photo" />
-  </div>
-  <div class="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 g-1 space-y-1">
     <h2>總召 - 章樂綺專輯</h2>
     <AlbumCard5 v-for="photo in class20Photos" :key="photo.id" :photo="photo" />
   </div>
@@ -15,9 +11,7 @@
 
 <script setup>
 import photos from "@/data/albumclass4.json";
-const class16Photos = computed(() => {
-  return photos.filter((photo) => photo.name === "Class16");
-});
+
 const class20Photos = computed(() => {
   return photos.filter((photo) => photo.name === "Class20");
 });

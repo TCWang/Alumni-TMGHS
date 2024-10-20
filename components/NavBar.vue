@@ -110,8 +110,8 @@ export default {
           submenu: [
             { name: "1964級1-5班", link: "/class/class1" },
             { name: "1964級6-10班", link: "/class/class2" },
-            { name: "1964級11-15班", link: "/class/class3" },
-            { name: "1964級16-17班及召集人", link: "/class/class4" },
+            { name: "1964級11-17班", link: "/class/class3" },
+            { name: "總召及執行長專輯", link: "/class/class4" },
           ],
         },
         {

@@ -19,6 +19,10 @@
     <h2>15 班</h2>
     <AlbumCard5 v-for="photo in class15Photos" :key="photo.id" :photo="photo" />
   </div>
+  <div class="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 g-1 space-y-1">
+    <h2>16 - 17 班</h2>
+    <AlbumCard5 v-for="photo in class16Photos" :key="photo.id" :photo="photo" />
+  </div>
 </template>
 
 <script setup>
@@ -37,6 +41,9 @@ const class14Photos = computed(() => {
 });
 const class15Photos = computed(() => {
   return photos.filter((photo) => photo.name === "Class15");
+});
+const class16Photos = computed(() => {
+  return photos.filter((photo) => photo.name === "Class16");
 });
 </script>
 
