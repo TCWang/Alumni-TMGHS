@@ -1,7 +1,7 @@
 <template>
   <div>
     <article class="w-full max-w-full">
-      <h1>班級專刊-1964級 11-17 班</h1>
+      <h2>班級專刊-1964級 11-17 班</h2>
       <AlbumCardsClass3 />
     </article>
   </div>

@@ -1,7 +1,7 @@
 <template>
   <div>
     <article class="w-full max-w-full">
-      <h1>總召 &amp; 執行長</h1>
+      <h2>總召 &amp; 執行長</h2>
       <AlbumCardsClass4 />
     </article>
   </div>
