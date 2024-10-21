@@ -1,5 +1,68 @@
 [
   {
+    "id": "IMG_506_09",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_9.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_08",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_8.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_07",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_7.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_05",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_5.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_04",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_4.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_03",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_3.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_506_01",
+    "name": "Class06",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_1.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
     "id": "IMG_507_01",
     "name": "Class07",
     "category": "班級專刊",
@@ -243,101 +306,11 @@
     "size": "H"
   },
   {
-    "id": "IMG_509_01",
+    "id": "IMG_509_13",
     "name": "Class09",
     "category": "班級專刊",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_1.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_02",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_2.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_03",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_3.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_04",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_4.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_05",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_5.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_06",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_6.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_07",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_7.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_08",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_8.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_09",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_9.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_10",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_10.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_509_11",
-    "name": "Class09",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_11.jpg",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_13.jpg",
     "type": "人物",
     "size": "H"
   },
@@ -351,11 +324,101 @@
     "size": "H"
   },
   {
-    "id": "IMG_509_13",
+    "id": "IMG_509_11",
     "name": "Class09",
     "category": "班級專刊",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_13.jpg",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_11.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_10",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_10.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_09",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_9.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_08",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_8.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_07",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_7.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_06",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_6.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_05",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_5.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_04",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_4.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_03",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_3.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_02",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_2.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_509_01",
+    "name": "Class09",
+    "category": "班級專刊",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016班級專刋9班_241019_1.jpg",
     "type": "人物",
     "size": "H"
   },
@@ -473,69 +536,6 @@
     "category": "班級專刊",
     "date": "10/18/24",
     "figure": "LINE_ALBUM_20241016班級專刋10班_241019_14.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_01",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_1.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_03",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_3.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_04",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_4.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_05",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_5.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_07",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_7.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_08",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_8.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_506_09",
-    "name": "Class06",
-    "category": "班級專刊",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016班級專刋6班_241019_9.jpg",
     "type": "人物",
     "size": "H"
   }
