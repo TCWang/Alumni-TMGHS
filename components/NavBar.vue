@@ -38,9 +38,6 @@
         }"
         class="md:flex-row flex-col items-center justify-start md:space-x-1 navigation-menu pb-3 md:pb-0"
       >
-        <a class="py-2 px-3 block text-white" href="/anniversary"
-          >1964級同學會</a
-        >
         <!-- Dropdown Menu -->
         <div class="relative" v-for="(item, index) in menuItems" :key="index">
           <button
@@ -94,6 +91,15 @@ export default {
     return {
       mobileMenuOpen: false,
       menuItems: [
+        {
+          name: "1964同學會",
+          open: false,
+          submenu: [
+            { name: "60週年感言", link: "/album/alb1" },
+            { name: "校園回顧", link: "/album/alb2" },
+            { name: "畢業相冊", link: "/album/alb3" },
+          ],
+        },
         {
           name: "60週年重聚會",
           open: false,
