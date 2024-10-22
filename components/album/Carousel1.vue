@@ -22,13 +22,13 @@
     <!-- Controls (Next/Previous) -->
     <button
       @click="prev"
-      class="absolute top-1/2 left-2 transform -translate-y-1/2 bg-gray-700 text-white p-2 rounded-full"
+      class="absolute top-1/2 left-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
     >
       &lt;
     </button>
     <button
       @click="next"
-      class="absolute top-1/2 right-2 transform -translate-y-1/2 bg-gray-700 text-white p-2 rounded-full"
+      class="absolute top-1/2 right-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
     >
       &gt;
     </button>
@@ -41,7 +41,7 @@
         v-for="(image, index) in images"
         :key="index"
         :class="{
-          'bg-blue-500': index === activeIndex,
+          'bg-blue-900': index === activeIndex,
           'bg-gray-400': index !== activeIndex,
         }"
         class="block w-2 h-2 rounded-full"
