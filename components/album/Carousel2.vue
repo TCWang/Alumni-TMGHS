@@ -9,7 +9,7 @@
       <div
         v-for="(image, index) in images"
         :key="index"
-        class="min-w-full h-auto p-6 box-border"
+        class="min-w-full h-auto p-8 box-border"
       >
         <img
           :src="image"
