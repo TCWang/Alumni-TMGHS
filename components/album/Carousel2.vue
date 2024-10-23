@@ -9,7 +9,7 @@
       <div
         v-for="(image, index) in images"
         :key="index"
-        class="min-w-full h-auto"
+        class="min-w-full h-auto p-6 box-border"
       >
         <img
           :src="image"
@@ -22,13 +22,13 @@
     <!-- Controls (Next/Previous) -->
     <button
       @click="prev"
-      class="absolute top-1/2 left-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+      class="absolute top-1/4 left-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
     >
       &lt;
     </button>
     <button
       @click="next"
-      class="absolute top-1/2 right-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+      class="absolute top-1/4 right-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
     >
       &gt;
     </button>
