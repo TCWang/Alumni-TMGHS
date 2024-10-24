@@ -1,1 +1,0 @@
-import{o as s,c as t,a as o}from"./BqG5smPy.js";const c={class:""},a=["src"],l={__name:"Card5",props:{photo:Object},setup(e){return(r,i)=>(s(),t("div",c,[o("img",{style:{width:"400px"},src:`/images/IMG5/${e.photo.figure}`,alt:"",class:"img-fluid"},null,8,a)]))}};export{l as _};
