@@ -26,7 +26,7 @@
         <img
           :src="image"
           alt="Carousel Image"
-          class="w-full h-full object-contain"
+          class="w-full h-full object-cover"
         />
       </div>
     </div>
