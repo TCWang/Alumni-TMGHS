@@ -1,82 +1,28 @@
 [
   {
-    "id": "IMG_6001",
+    "id": "IMG_6012",
     "name": "IMG",
     "category": "個人沙龍",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_1.jpg",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_12.jpg",
     "type": "人物",
     "size": "H"
   },
   {
-    "id": "IMG_6002",
+    "id": "IMG_6013",
     "name": "IMG",
     "category": "個人沙龍",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_2.jpg",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_13.jpg",
     "type": "人物",
     "size": "H"
   },
   {
-    "id": "IMG_6003",
+    "id": "IMG_6011",
     "name": "IMG",
     "category": "個人沙龍",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_3.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6004",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_4.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6005",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_5.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6006",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_6.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6007",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_7.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6008",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_8.jpg",
-    "type": "人物",
-    "size": "H"
-  },
-  {
-    "id": "IMG_6009",
-    "name": "IMG",
-    "category": "個人沙龍",
-    "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_9.jpg",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_11.jpg",
     "type": "人物",
     "size": "H"
   },
@@ -90,11 +36,83 @@
     "size": "H"
   },
   {
-    "id": "IMG_6011",
+    "id": "IMG_6009",
     "name": "IMG",
     "category": "個人沙龍",
     "date": "10/18/24",
-    "figure": "LINE_ALBUM_20241016個人沙龍_241020_11.jpg",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_9.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6008",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_8.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6007",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_7.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6006",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_6.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6005",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_5.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6004",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_4.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6003",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_3.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6002",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_2.jpg",
+    "type": "人物",
+    "size": "H"
+  },
+  {
+    "id": "IMG_6001",
+    "name": "IMG",
+    "category": "個人沙龍",
+    "date": "10/18/24",
+    "figure": "LINE_ALBUM_20241016個人沙龍_241020_1.jpg",
     "type": "人物",
     "size": "H"
   }

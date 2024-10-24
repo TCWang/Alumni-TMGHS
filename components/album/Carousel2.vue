@@ -21,7 +21,7 @@
       <div
         v-for="(image, index) in images"
         :key="index"
-        class="min-w-full h-auto py-8 box-border"
+        class="min-w-full h-auto py-8 px-2 box-border"
       >
         <img
           :src="image"
@@ -66,6 +66,10 @@ const images = ref([
   "/images/IMG9/S_162.jpg",
   "/images/IMG9/S_171.jpg",
   "/images/IMG9/S_172.jpg",
+  "/images/IMG9/S_004.jpg",
+  "/images/IMG9/S_005.jpg",
+  "/images/IMG9/S_006.jpg",
+  "/images/IMG9/S_007.jpg",
 ]);
 
 const activeIndex = ref(0);
