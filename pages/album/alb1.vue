@@ -20,7 +20,10 @@
       我們在此留下倩影。在鏡頭下捕捉到許多佼好的面貌，雖然青春時光不在，却呈現出一顆年輕少女的心情。期待下次相聚。
     </p>
 
-    <img src="/images/IMG8/學校.jpg" class="img-fluid" style="width: 400px" />
+    <img src="/images/IMG9/S_004.jpg" class="img-fluid" style="width: 600px" />
+    <img src="/images/IMG9/S_005.jpg" class="img-fluid" style="width: 600px" />
+    <img src="/images/IMG9/S_006.jpg" class="img-fluid" style="width: 600px" />
+    <img src="/images/IMG9/S_007.jpg" class="img-fluid" style="width: 600px" />
   </div>
 </template>
 
