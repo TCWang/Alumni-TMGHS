@@ -1,17 +1,5 @@
 <template>
   <div class="relative w-full overflow-hidden">
-    <!-- Controls (Next/Previous) at the top of the page -->
-    <div
-      class="absolute top-2 left-1/2 transform -translate-x-1/2 flex space-x-4 z-10"
-    >
-      <button @click="prev" class="bg-blue-900 text-white p-2 rounded-full">
-        &lt;
-      </button>
-      <button @click="next" class="bg-blue-900 text-white p-2 rounded-full">
-        &gt;
-      </button>
-    </div>
-
     <!-- Carousel Wrapper -->
     <div
       class="flex transition-transform ease-out duration-500"
@@ -21,15 +9,29 @@
       <div
         v-for="(image, index) in images"
         :key="index"
-        class="min-w-full h-auto py-8 px-2 box-border"
+        class="min-w-full h-auto px-2 pb-10 box-border"
       >
         <img
           :src="image"
           alt="Carousel Image"
-          class="w-full h-full object-contain"
+          class="w-full h-full object-cover"
         />
       </div>
     </div>
+
+    <!-- Controls (Next/Previous) -->
+    <button
+      @click="prev"
+      class="absolute top-10 left-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+    >
+      &lt;
+    </button>
+    <button
+      @click="next"
+      class="absolute top-10 right-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+    >
+      &gt;
+    </button>
 
     <!-- Indicators -->
     <div
