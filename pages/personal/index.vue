@@ -3,7 +3,7 @@
     <h2 class="mb-4">台北市立女中 1964級 - 同學錄</h2>
 
     <h3 class="pb-3">畢業60週年 重聚會 參加人員</h3>
-    <ol class="text-black-600">
+    <nl class="text-black-600 list-none break-words whitespace-normal">
       <li>一班 傅之頴</li>
       <li>二班 汪韶雲, 王台鳳, 范鴛鴦, 盧菊芳, 許玫瑰, 熊永莉</li>
       <li>三班 施幸美, 蔡蔭和, 葉英蕙</li>
@@ -29,7 +29,7 @@
       <li>十五班 王悦治, 曹慧玲, 李曼宜, 鄭素珠, 宋麗玲</li>
       <li>十六班 喬臨思</li>
       <li>十七班 許美瑞</li>
-    </ol>
+    </nl>
   </div>
 </template>
 

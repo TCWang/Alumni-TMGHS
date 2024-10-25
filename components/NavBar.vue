@@ -95,7 +95,7 @@ export default {
           name: "1964同學會",
           open: false,
           submenu: [
-            { name: "60週年感言", link: "/album/alb1" },
+            { name: "感言與後記", link: "/album/alb1" },
             { name: "校園回顧", link: "/album/alb2" },
             { name: "畢業相冊", link: "/album/alb3" },
           ],
