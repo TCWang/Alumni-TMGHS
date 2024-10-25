@@ -1,17 +1,5 @@
 <template>
   <div class="relative w-full overflow-hidden">
-    <!-- Controls (Next/Previous) at the top of the page -->
-    <div
-      class="absolute top-2 left-1/2 transform -translate-x-1/2 flex space-x-4 z-10"
-    >
-      <button @click="prev" class="bg-blue-900 text-white p-2 rounded-full">
-        &lt;
-      </button>
-      <button @click="next" class="bg-blue-900 text-white p-2 rounded-full">
-        &gt;
-      </button>
-    </div>
-
     <!-- Carousel Wrapper -->
     <div
       class="flex transition-transform ease-out duration-500"
@@ -21,7 +9,7 @@
       <div
         v-for="(image, index) in images"
         :key="index"
-        class="min-w-full h-auto py-8 box-border"
+        class="min-w-full h-auto px-2 pb-10 box-border"
       >
         <img
           :src="image"
@@ -30,6 +18,20 @@
         />
       </div>
     </div>
+
+    <!-- Controls (Next/Previous) -->
+    <button
+      @click="prev"
+      class="absolute top-10 left-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+    >
+      &lt;
+    </button>
+    <button
+      @click="next"
+      class="absolute top-10 right-2 transform -translate-y-1/2 bg-blue-900 text-white p-2 rounded-full"
+    >
+      &gt;
+    </button>
 
     <!-- Indicators -->
     <div
@@ -52,26 +54,20 @@
 import { ref } from "vue";
 
 const images = ref([
-  "/images/IMG9/S_011.jpg",
-  "/images/IMG9/S_012.jpg",
-  "/images/IMG9/S_021.jpg",
-  "/images/IMG9/S_022.jpg",
-  "/images/IMG9/S_031.jpg",
-  "/images/IMG9/S_032.jpg",
-  "/images/IMG9/S_041.jpg",
-  "/images/IMG9/S_042.jpg",
-  "/images/IMG9/S_051.jpg",
-  "/images/IMG9/S_052.jpg",
-  "/images/IMG9/S_061.jpg",
-  "/images/IMG9/S_062.jpg",
-  "/images/IMG9/S_071.jpg",
-  "/images/IMG9/S_072.jpg",
-  "/images/IMG9/S_081.jpg",
-  "/images/IMG9/S_082.jpg",
-  "/images/IMG9/S_091.jpg",
-  "/images/IMG9/S_092.jpg",
-  "/images/IMG9/S_101.jpg",
-  "/images/IMG9/S_102.jpg",
+  "/images/IMG9/S_111.jpg",
+  "/images/IMG9/S_112.jpg",
+  "/images/IMG9/S_121.jpg",
+  "/images/IMG9/S_122.jpg",
+  "/images/IMG9/S_131.jpg",
+  "/images/IMG9/S_132.jpg",
+  "/images/IMG9/S_141.jpg",
+  "/images/IMG9/S_142.jpg",
+  "/images/IMG9/S_151.jpg",
+  "/images/IMG9/S_152.jpg",
+  "/images/IMG9/S_161.jpg",
+  "/images/IMG9/S_162.jpg",
+  "/images/IMG9/S_171.jpg",
+  "/images/IMG9/S_172.jpg",
 ]);
 
 const activeIndex = ref(0);
